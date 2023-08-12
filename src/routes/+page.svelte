@@ -137,7 +137,7 @@
 {/if}
 
 {#if state === 'lost'}
-	<h1>You Loose! 💩</h1>
+	<h1>You Loose!! 💩</h1>
 
 	<button class="play-button" on:click={() => (state = 'playing')}>Play again</button>
 {/if}
