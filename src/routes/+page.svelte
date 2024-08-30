@@ -56,7 +56,7 @@
 		selected = []
 		matches = []
 		timerId = null
-		time = 20
+		time = 60
 	}
 
 	function gameWon() {
