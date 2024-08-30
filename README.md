@@ -29,8 +29,8 @@ To run the game locally, follow these steps:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/emoji-matching-game.git
-   cd emoji-matching-game
+   git clone https://github.com/n01syboii/matching-game.git
+   cd matching-game
    ```
 
 2. **Install the dependencies:**
